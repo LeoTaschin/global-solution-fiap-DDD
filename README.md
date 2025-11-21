@@ -144,15 +144,3 @@ O projeto contribui para:
 - **ODS 10**: redução das desigualdades
 
 Promove trilhas de habilidades técnicas e humanas essenciais para 2030+.
-
----
-
-## 📄 Observações finais
-
-O projeto está estruturado conforme solicitado:
-- Código limpo e organizado
-- Camadas separadas
-- Banco configurado
-- CRUDs completos e funcionais
-
-Pronto para avaliação.
